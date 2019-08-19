@@ -1,2 +1,3 @@
 # cache
-Some Caching technique
+Some Caching technique:
+  1. LRU
